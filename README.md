@@ -81,12 +81,12 @@ The dashboard provides an interactive view of sales and customer performance, he
 ## Dashboard Preview
 
 ### Executive Sales
-![Executive Sales](Screenshots/Executive_Sales.png)
+![Executive Sales](screenshots/Executive_Sales.png)
 
 ### Product & Regional Performance
-![Product Performance](Screenshots/Product_Regional_Performance.png)
+![Product Performance](screenshots/Product_Regional_Performance.png)
 
 ### Customer Analytics
-![Customer Analytics](Screenshots/Customer_Analytics.png)
+![Customer Analytics](screenshots/Customer_Analytics.png)
 
 **Tools:** SQL Server | SSMS | Power BI | DAX | Power Query
