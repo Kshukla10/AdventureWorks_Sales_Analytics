@@ -78,9 +78,15 @@ The dashboard provides an interactive view of sales and customer performance, he
 - SQL scripts (.sql)
 - Dashboard screenshots
 - Project documentation (README.md)
+## Dashboard Preview
 
-## Author
+### Executive Sales
+![Executive Sales](Screenshots/Executive_Sales.png)
 
-Business Intelligence Portfolio Project
+### Product & Regional Performance
+![Product Performance](Screenshots/Product_Regional_Performance.png)
+
+### Customer Analytics
+![Customer Analytics](Screenshots/Customer_Analytics.png)
 
 **Tools:** SQL Server | SSMS | Power BI | DAX | Power Query
